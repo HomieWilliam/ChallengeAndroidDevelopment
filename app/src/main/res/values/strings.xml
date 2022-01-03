@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Android Challenge</string>
+    <string name="temp">Temp: </string>
+    <string name="current_city">No location</string>
+    <string name="cities">Cities</string>
+    <string name="forecast_title">Forecast</string>
+    <string name="airflow_title">Airflow</string>
+    <string name="app_title">Weather</string>
+    <string name="no_weather">No weather</string>
+    <string name="app_title_1">Find the area or city that you want to know</string>
+    <string name="app_title_2">the detected weather info at this time</string>
+    <string name="max_temp">Max temp: </string>
+    <string name="min_temp">Min temp: </string>
+    <string name="humidity">Humidity: </string>
+    <string name="pressure">Pressure: </string>
+    <string name="mb">mb</string>
+    <string name="feels_like">Feels Like: </string>
+    <string name="speed">Speed: </string>
+    <string name="deg">Deg: </string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="label_no">No, thank you</string>
+    <string name="label_yes">Yes</string>
+    <string name="label_location_question">To proceed, enable device location, which uses google\'s location service.</string>
+
+    <string name="initial_speed">0Km/h</string>
+    <string name="initial_humidity">0%</string>
+    <string-array name="cities">
+        <item>Lisbon</item>
+        <item>Madrid</item>
+        <item>London</item>
+        <item>Paris</item>
+        <item>Berlin</item>
+        <item>Copenhagen</item>
+        <item>Rome</item>
+        <item>Dublin</item>
+        <item>Prague</item>
+        <item>Vienna</item>
+    </string-array>
+</resources>
